@@ -1,0 +1,101 @@
+buyerID,buyername,address,gender,cake_oder_time,phone_numbers,cake type
+GB--001B,Olivia,323 Hoang Hoa Tham,male,10/7/2023,8499217673,donut
+GA--002A,Gloria,176 Tran Van On,female,5/17/2023,8493426151,custard
+GC--003C,Jose,339 Nguyen Trai,male,1/3/2023,8492306067,cheesecake
+GB--004B,Leo,294 Tran Van On,male,12/21/2023,8499420865,tiramisu
+GC--005C,Carrie,215 Tran Binh Trong,male,7/7/2023,8498700729,tiramisu
+GA--006A,Kent,48 CMT8,female,6/22/2023,8493849480,donut
+GC--007C,Jeanne,256 Nguyen Trai,female,11/25/2023,8491182850,candycake
+GA--008A,Kevin,205 Tran Van On,female,2/7/2023,8495094411,cheesecake
+GC--009C,Christian,168 Hung Vuong,male,2/27/2023,8494607819,candycake
+GB--0010B,Candice,271 Nguyen Trai,female,9/6/2023,8499898233,chocolatecake
+GB--0011B,Derek,204 Nguyen Trai,female,4/15/2023,8497312415,chocolatecake
+GD--0012D,Jayden,227 CMT8,female,6/28/2023,8491135119,custard
+GC--0013C,Krin,313 Pham Van Dong,female,4/16/2023,8493049263,candycake
+GB--0014B,Minnie,331 Phu Dong,male,3/5/2023,8494809232,cheesecake
+GB--0015B,Evelyn,244 Tran Van On,female,1/28/2023,8499059531,custard
+GA--0016A,Darren,48 Hoang Hoa Tham,female,2/7/2023,8494811915,tiramisu
+GA--0017A,Clinton,213 Tran Van On,male,6/9/2023,8490675368,tiramisu
+GB--0018B,Paul,133 Phu Dong,male,10/3/2023,8493467762,cheesecake
+GA--0019A,Sophia,227 Phu Dong,male,8/11/2023,8498381228,chocolatecake
+GA--0020A,Zachary,231 30Thang4,male,3/16/2023,8490341866,chocolatecake
+GD--0021D,Terri,50 Tran Binh Trong,male,3/2/2023,8492257241,custard
+GC--0022C,Anthony,357 30Thang4,male,12/19/2023,8498132451,candycake
+GB--0023B,Ritthy,333 Tran Binh Trong,male,12/27/2023,8499697528,cheesecake
+GA--0024A,Francisco,152 Hung Vuong,female,7/21/2023,8499827856,chocolatecake
+GD--0025D,Wayne,72 Tran Van On,male,9/24/2023,8498482113,chocolatecake
+GD--0026D,Louella,107 Hoang Hoa Tham,female,7/19/2023,8496283941,candycake
+GB--0027B,Willard,374 Ho Thi Ky,male,5/6/2023,8495057131,chocolatecake
+GB--0028B,John,188 Pham Van Dong,male,7/13/2023,8495501925,candycake
+GC--0029C,Emma,357 Hung Vuong,female,6/9/2023,8499603973,donut
+GC--0030C,Louella,182 Hung Vuong,female,2/20/2023,8493153366,tiramisu
+GC--0031C,Sally,364 Hoang Hoa Tham,female,4/27/2023,8493405636,donut
+GC--0032C,Josephine,254 30Thang4,female,10/17/2023,8499811528,chocolatecake
+GA--0033A,Edward,252 Tran Van On,female,11/11/2023,8493558840,custard
+GC--0034C,Marc,308 30Thang4,female,8/4/2023,8493252352,custard
+GD--0035D,Shannon,360 CMT8,female,11/25/2023,8495437263,candycake
+GB--0036B,Dustin,344 Tran Binh Trong,female,4/23/2023,8494399377,tiramisu
+GB--0037B,Leonard,131 Hoang Hoa Tham,male,1/7/2023,8490807269,chocolatecake
+GA--0038A,Fernando,148 CMT8,male,2/1/2023,8497997166,chocolatecake
+GC--0039C,Judith,294 Ho Thi Ky,male,9/1/2023,8490590558,custard
+GB--0040B,Lydia,225 30Thang4,female,4/5/2023,8497678462,donut
+GC--0041C,Margie,110 Tran Van On,male,11/21/2023,8497985575,donut
+GB--0042B,Kevin,367 30Thang4,male,6/28/2023,8490171833,candycake
+GD--0043D,Lesa,292 Tran Van On,female,9/3/2023,8498007670,donut
+GD--0044D,Audrey,185 Nguyen Trai,male,11/17/2023,8494597902,donut
+GD--0045D,Edith,136 Tran Van On,female,8/22/2023,8495751568,tiramisu
+GD--0046D,Alfred,337 Ho Thi Ky,female,12/18/2023,8497423382,candycake
+GB--0047B,Bob,255 Phu Dong,male,10/4/2023,8492085600,custard
+GA--0048A,Letitia,301 CMT8,female,7/19/2023,8490746003,candycake
+GB--0049B,Emily,155 Phu Dong,female,11/5/2023,8494894488,chocolatecake
+GA--0050A,Tonya,128 Ho Thi Ky,female,8/23/2023,8494593211,donut
+GB--0051B,Jane,357 Ho Thi Ky,male,4/15/2023,8498998864,donut
+GD--0052D,Hector,271 Hoang Hoa Tham,female,8/26/2023,8491805100,tiramisu
+GA--0053A,Glen,169 30Thang4,male,12/14/2023,8497327343,tiramisu
+GC--0054C,Bill,264 Tran Binh Trong,female,2/24/2023,8499199093,candycake
+GA--0055A,Harvey,353 Pham Van Dong,female,7/25/2023,8497922141,chocolatecake
+GA--0056A,Kristina,159 30Thang4,male,5/22/2023,8493080047,chocolatecake
+GC--0057C,Herbert,377 Nguyen Trai,male,8/25/2023,8495720875,cheesecake
+GA--0058A,Mario,83 30Thang4,male,1/18/2023,8490211776,candycake
+GD--0059D,Beth,274 Nguyen Trai,male,6/21/2023,8497185746,donut
+GA--0060A,Camila,218 Hoang Hoa Tham,female,8/1/2023,8493142102,donut
+GB--0061B,Eileen,145 CMT8,female,3/20/2023,8493421046,candycake
+GD--0062D,Ramona,259 Nguyen Trai,female,7/13/2023,8496576133,donut
+GD--0063D,Nathaniel,381 30Thang4,female,12/12/2023,8492761037,chocolatecake
+GB--0064B,Chester,121 Pham Van Dong,female,2/8/2023,8492817798,donut
+GA--0065A,Joseph,141 Hoang Hoa Tham,male,5/10/2023,8494641429,candycake
+GA--0066A,Wanda,72 Hung Vuong,female,8/4/2023,8496804911,candycake
+GD--0067D,Vicki,256 Phu Dong,male,4/21/2023,8494137863,cheesecake
+GC--0068C,Olivia,127 Phu Dong,male,12/8/2023,8498298119,cheesecake
+GB--0069B,Darryl,323 30Thang4,female,5/25/2023,8493939939,tiramisu
+GB--0070B,Frances,156 Tran Binh Trong,male,2/11/2023,8490693972,custard
+GB--0071B,Todd,210 30Thang4,male,8/4/2023,8495566512,candycake
+GC--0072C,Douglas,263 Tran Binh Trong,female,1/10/2023,8496975829,chocolatecake
+GA--0073A,Cathy,258 Ho Thi Ky,male,5/18/2023,8492749837,candycake
+GA--0074A,Ross,58 CMT8,female,4/8/2023,8491742057,cheesecake
+GA--0075A,Rosemary,168 Tran Binh Trong,female,10/25/2023,8491670219,candycake
+GA--0076A,Esther,151 Hung Vuong,male,6/3/2023,8495667773,chocolatecake
+GD--0077D,Jimmy,105 Nguyen Trai,male,3/18/2023,8495859313,tiramisu
+GD--0078D,Kitty,94 Tran Binh Trong,male,8/14/2023,8492229855,cheesecake
+GA--0079A,Terrance,153 Hoang Hoa Tham,male,9/10/2023,8493667433,tiramisu
+GC--0080C,Felix,136 30Thang4,female,12/13/2023,8497433638,custard
+GB--0081B,Dan,226 Nguyen Trai,male,6/19/2023,8497035512,custard
+GD--0082D,Layla,200 Tran Van On,male,6/20/2023,8496448005,custard
+GC--0083C,Vivan,62 Phu Dong,male,8/11/2023,8498311136,cheesecake
+GC--0084C,Beverley,201 Tran Van On,female,8/23/2023,8490708978,cheesecake
+GD--0085D,Oscar,105 Hoang Hoa Tham,female,4/21/2023,8498699911,cheesecake
+GA--0086A,Ramona,340 30Thang4,female,12/2/2023,8496723397,tiramisu
+GC--0087C,Catherine,286 Tran Binh Trong,female,1/17/2023,8498244697,candycake
+GC--0088C,Krin,182 30Thang4,male,10/2/2023,8494360164,chocolatecake
+GD--0089D,Hailey,377 Phu Dong,female,11/1/2023,8498143347,donut
+GA--0090A,Sophie,285 Hoang Hoa Tham,male,3/26/2023,8496153631,tiramisu
+GA--0091A,Levi,71 Hoang Hoa Tham,female,1/18/2023,8498552468,donut
+GC--0092C,Andre,263 Hoang Hoa Tham,male,11/27/2023,8499652246,tiramisu
+GD--0093D,Shannon,393 Pham Van Dong,male,3/16/2023,8492212351,tiramisu
+GB--0094B,Earl,368 Hung Vuong,female,6/19/2023,8497988400,chocolatecake
+GD--0095D,Everett,318 Pham Van Dong,male,6/21/2023,8498250367,candycake
+GB--0096B,Elsie,64 Hoang Hoa Tham,male,12/7/2023,8496285614,donut
+GD--0097D,Warren,365 Tran Van On,male,12/22/2023,8498353779,tiramisu
+GD--0098D,Perry,182 Hung Vuong,male,1/5/2023,8496098836,candycake
+GB--0099B,Theodore,77 Tran Binh Trong,male,7/25/2023,8498739962,donut
+GB--00100B,Sebastian,397 30Thang4,female,12/2/2023,8490858043,tiramisu

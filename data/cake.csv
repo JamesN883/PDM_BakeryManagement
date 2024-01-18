@@ -1,0 +1,101 @@
+cakeID,cakeName,date.made,ex.date,caketype,weight,color,status,bakeryID,buyerID,bakerID
+CAC--001C,chocolatecake,10/28/2023,11/28/2023,fullcake,100,red,red,B003,GB--001B,BA002
+CAB--002B,tiramisu,5/22/2023,6/22/2023,fullcake,50,pink,Available,B003,GA--002A,BA003
+CAD--003D,donut,5/25/2023,6/25/2023,three-quarters of the cake,100,green,red,B005,GC--003C,BA003
+CAB--004B,candycake,2/21/2023,3/21/2023,fullcake,50,white,Available,B005,GB--004B,BA003
+CAD--005D,candycake,10/27/2023,11/27/2023,fullcake,150,red,Available,B001,GC--005C,BA004
+CAA--006A,cheesecake,7/10/2023,8/10/2023,1/2cake,50,pink,red,B004,GA--006A,BA002
+CAD--007D,cheesecake,9/10/2023,10/10/2023,1/2cake,200,yellow,red,B001,GC--007C,BA006
+CAC--008C,donut,3/21/2023,4/21/2023,a quarter,150,pink,Available,B005,GA--008A,BA002
+CAD--009D,chocolatecake,6/28/2023,7/28/2023,three-quarters of the cake,100,blue,Available,B004,GC--009C,BA006
+CAA--0010A,cheesecake,1/18/2023,2/18/2023,a quarter,100,brown,Available,B004,GB--0010B,BA005
+CAD--0011D,chocolatecake,5/10/2023,6/10/2023,1/2cake,100,green,Available,B001,GB--0011B,BA006
+CAC--0012C,tiramisu,8/6/2023,9/6/2023,three-quarters of the cake,150,red,red,B003,GD--0012D,BA005
+CAA--0013A,donut,2/28/2023,3/28/2023,1/2cake,100,yellow,Available,B003,GC--0013C,BA001
+CAC--0014C,custard,4/12/2023,5/12/2023,fullcake,200,green,Available,B001,GB--0014B,BA002
+CAA--0015A,cheesecake,12/13/2023,13/13/2023,three-quarters of the cake,50,green,Available,B003,GB--0015B,BA002
+CAD--0016D,candycake,8/4/2023,9/4/2023,fullcake,200,white,red,B002,GA--0016A,BA002
+CAD--0017D,chocolatecake,3/18/2023,4/18/2023,fullcake,50,red,red,B002,GA--0017A,BA001
+CAC--0018C,tiramisu,7/5/2023,8/5/2023,fullcake,50,green,Available,B004,GB--0018B,BA004
+CAD--0019D,chocolatecake,11/14/2023,12/14/2023,1/2cake,150,blue,red,B004,GA--0019A,BA006
+CAC--0020C,donut,3/27/2023,4/27/2023,fullcake,100,red,Available,B003,GA--0020A,BA002
+CAA--0021A,donut,11/20/2023,12/20/2023,three-quarters of the cake,50,blue,Available,B002,GD--0021D,BA004
+CAC--0022C,donut,12/6/2023,13/6/2023,1/2cake,100,green,red,B005,GC--0022C,BA001
+CAA--0023A,tiramisu,2/6/2023,3/6/2023,a quarter,50,blue,red,B004,GB--0023B,BA005
+CAA--0024A,candycake,4/19/2023,5/19/2023,a quarter,100,pink,red,B002,GA--0024A,BA002
+CAD--0025D,tiramisu,10/1/2023,11/1/2023,1/2cake,200,brown,Available,B001,GD--0025D,BA003
+CAD--0026D,cheesecake,1/5/2023,2/5/2023,1/2cake,200,white,red,B003,GD--0026D,BA002
+CAA--0027A,candycake,8/1/2023,9/1/2023,fullcake,200,brown,Available,B005,GB--0027B,BA006
+CAA--0028A,chocolatecake,3/1/2023,4/1/2023,1/2cake,200,brown,Available,B003,GB--0028B,BA006
+CAC--0029C,tiramisu,3/15/2023,4/15/2023,three-quarters of the cake,150,blue,red,B001,GC--0029C,BA006
+CAC--0030C,candycake,11/23/2023,12/23/2023,a quarter,50,yellow,Available,B004,GC--0030C,BA003
+CAB--0031B,tiramisu,11/13/2023,12/13/2023,three-quarters of the cake,200,pink,red,B005,GC--0031C,BA001
+CAA--0032A,custard,3/4/2023,4/4/2023,a quarter,150,white,red,B004,GC--0032C,BA006
+CAD--0033D,chocolatecake,12/18/2023,13/18/2023,three-quarters of the cake,50,white,red,B002,GA--0033A,BA006
+CAA--0034A,cheesecake,6/16/2023,7/16/2023,1/2cake,200,white,Available,B001,GC--0034C,BA004
+CAC--0035C,tiramisu,2/27/2023,3/27/2023,fullcake,50,white,red,B003,GD--0035D,BA002
+CAA--0036A,cheesecake,2/21/2023,3/21/2023,1/2cake,200,brown,red,B002,GB--0036B,BA004
+CAA--0037A,candycake,7/12/2023,8/12/2023,fullcake,150,white,Available,B005,GB--0037B,BA002
+CAA--0038A,cheesecake,2/18/2023,3/18/2023,fullcake,50,blue,Available,B003,GA--0038A,BA005
+CAA--0039A,candycake,8/18/2023,9/18/2023,a quarter,200,red,Available,B001,GC--0039C,BA004
+CAA--0040A,donut,4/10/2023,5/10/2023,1/2cake,200,yellow,red,B001,GB--0040B,BA006
+CAC--0041C,donut,8/13/2023,9/13/2023,1/2cake,150,brown,red,B003,GC--0041C,BA006
+CAD--0042D,chocolatecake,9/8/2023,10/8/2023,fullcake,200,green,red,B004,GB--0042B,BA003
+CAC--0043C,cheesecake,5/16/2023,6/16/2023,three-quarters of the cake,200,blue,Available,B002,GD--0043D,BA005
+CAD--0044D,candycake,2/16/2023,3/16/2023,1/2cake,200,blue,Available,B005,GD--0044D,BA005
+CAB--0045B,donut,9/11/2023,10/11/2023,fullcake,100,yellow,red,B001,GD--0045D,BA005
+CAD--0046D,chocolatecake,1/14/2023,2/14/2023,three-quarters of the cake,150,red,red,B001,GD--0046D,BA005
+CAB--0047B,custard,4/27/2023,5/27/2023,a quarter,50,yellow,Available,B003,GB--0047B,BA005
+CAC--0048C,cheesecake,11/21/2023,12/21/2023,1/2cake,150,blue,red,B002,GA--0048A,BA004
+CAC--0049C,donut,2/9/2023,3/9/2023,fullcake,200,pink,Available,B004,GB--0049B,BA003
+CAC--0050C,custard,5/28/2023,6/28/2023,three-quarters of the cake,150,green,red,B002,GA--0050A,BA005
+CAD--0051D,cheesecake,4/15/2023,5/15/2023,a quarter,50,green,red,B005,GB--0051B,BA003
+CAC--0052C,candycake,8/16/2023,9/16/2023,1/2cake,200,white,Available,B002,GD--0052D,BA006
+CAD--0053D,custard,11/2/2023,12/2/2023,three-quarters of the cake,100,brown,red,B004,GA--0053A,BA001
+CAA--0054A,chocolatecake,1/20/2023,2/20/2023,a quarter,100,green,Available,B001,GC--0054C,BA002
+CAC--0055C,custard,11/4/2023,12/4/2023,a quarter,100,green,Available,B005,GA--0055A,BA004
+CAA--0056A,candycake,10/15/2023,11/15/2023,three-quarters of the cake,200,pink,red,B003,GA--0056A,BA004
+CAD--0057D,candycake,10/4/2023,11/4/2023,1/2cake,200,brown,red,B001,GC--0057C,BA001
+CAA--0058A,custard,12/16/2023,13/16/2023,fullcake,50,pink,Available,B003,GA--0058A,BA003
+CAD--0059D,donut,12/24/2023,13/24/2023,fullcake,150,white,Available,B001,GD--0059D,BA005
+CAC--0060C,tiramisu,10/9/2023,11/9/2023,fullcake,150,green,Available,B001,GA--0060A,BA001
+CAB--0061B,custard,3/10/2023,4/10/2023,three-quarters of the cake,50,brown,red,B002,GB--0061B,BA006
+CAB--0062B,chocolatecake,12/18/2023,13/18/2023,three-quarters of the cake,200,blue,Available,B004,GD--0062D,BA003
+CAB--0063B,chocolatecake,4/14/2023,5/14/2023,a quarter,100,yellow,red,B003,GD--0063D,BA001
+CAC--0064C,tiramisu,7/7/2023,8/7/2023,a quarter,200,red,Available,B002,GB--0064B,BA001
+CAA--0065A,candycake,7/13/2023,8/13/2023,fullcake,100,blue,red,B001,GA--0065A,BA006
+CAB--0066B,chocolatecake,12/15/2023,13/15/2023,fullcake,50,blue,red,B003,GA--0066A,BA005
+CAA--0067A,custard,5/1/2023,6/1/2023,three-quarters of the cake,200,pink,Available,B003,GD--0067D,BA005
+CAD--0068D,donut,1/19/2023,2/19/2023,three-quarters of the cake,150,blue,red,B003,GC--0068C,BA004
+CAC--0069C,custard,11/3/2023,12/3/2023,a quarter,50,pink,red,B004,GB--0069B,BA002
+CAA--0070A,tiramisu,2/16/2023,3/16/2023,a quarter,200,yellow,Available,B002,GB--0070B,BA006
+CAA--0071A,custard,6/8/2023,7/8/2023,three-quarters of the cake,50,yellow,red,B003,GB--0071B,BA005
+CAA--0072A,custard,11/22/2023,12/22/2023,a quarter,100,yellow,Available,B001,GC--0072C,BA006
+CAC--0073C,chocolatecake,12/9/2023,13/9/2023,1/2cake,200,brown,red,B001,GA--0073A,BA003
+CAD--0074D,candycake,10/9/2023,11/9/2023,a quarter,50,blue,red,B005,GA--0074A,BA005
+CAC--0075C,tiramisu,11/15/2023,12/15/2023,three-quarters of the cake,100,green,red,B004,GA--0075A,BA002
+CAA--0076A,candycake,3/20/2023,4/20/2023,fullcake,50,brown,red,B003,GA--0076A,BA001
+CAA--0077A,cheesecake,11/5/2023,12/5/2023,a quarter,50,green,red,B005,GD--0077D,BA006
+CAD--0078D,tiramisu,10/7/2023,11/7/2023,three-quarters of the cake,100,white,red,B005,GD--0078D,BA004
+CAA--0079A,chocolatecake,11/9/2023,12/9/2023,a quarter,50,white,red,B003,GA--0079A,BA001
+CAA--0080A,tiramisu,3/7/2023,4/7/2023,a quarter,200,blue,red,B005,GC--0080C,BA006
+CAB--0081B,cheesecake,5/7/2023,6/7/2023,three-quarters of the cake,50,brown,Available,B001,GB--0081B,BA004
+CAC--0082C,tiramisu,12/7/2023,13/7/2023,three-quarters of the cake,200,white,Available,B005,GD--0082D,BA001
+CAC--0083C,donut,9/6/2023,10/6/2023,three-quarters of the cake,200,red,red,B002,GC--0083C,BA004
+CAD--0084D,candycake,12/26/2023,13/26/2023,1/2cake,150,yellow,red,B003,GC--0084C,BA004
+CAC--0085C,cheesecake,8/16/2023,9/16/2023,three-quarters of the cake,150,brown,Available,B002,GD--0085D,BA006
+CAA--0086A,candycake,5/10/2023,6/10/2023,a quarter,100,blue,red,B005,GA--0086A,BA006
+CAB--0087B,custard,8/18/2023,9/18/2023,1/2cake,200,white,red,B003,GC--0087C,BA003
+CAC--0088C,chocolatecake,7/14/2023,8/14/2023,1/2cake,150,blue,red,B002,GC--0088C,BA004
+CAB--0089B,tiramisu,1/20/2023,2/20/2023,fullcake,150,pink,Available,B001,GD--0089D,BA001
+CAD--0090D,candycake,3/21/2023,4/21/2023,fullcake,50,brown,red,B001,GA--0090A,BA001
+CAC--0091C,cheesecake,6/14/2023,7/14/2023,a quarter,200,white,red,B005,GA--0091A,BA002
+CAD--0092D,donut,10/2/2023,11/2/2023,fullcake,50,white,red,B004,GC--0092C,BA005
+CAA--0093A,chocolatecake,9/24/2023,10/24/2023,fullcake,100,white,Available,B005,GD--0093D,BA002
+CAC--0094C,candycake,1/13/2023,2/13/2023,three-quarters of the cake,50,red,red,B001,GB--0094B,BA005
+CAD--0095D,donut,8/27/2023,9/27/2023,fullcake,50,yellow,Available,B003,GD--0095D,BA005
+CAA--0096A,cheesecake,1/26/2023,2/26/2023,a quarter,100,blue,red,B001,GB--0096B,BA002
+CAA--0097A,donut,12/13/2023,13/13/2023,a quarter,200,green,Available,B004,GD--0097D,BA003
+CAA--0098A,chocolatecake,9/19/2023,10/19/2023,fullcake,150,yellow,Available,B004,GD--0098D,BA003
+CAC--0099C,tiramisu,6/13/2023,7/13/2023,three-quarters of the cake,150,pink,Available,B005,GB--0099B,BA001
+CAB--00100B,cheesecake,2/4/2023,3/4/2023,three-quarters of the cake,200,brown,red,B002,GB--00100B,BA002
